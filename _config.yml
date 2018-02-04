@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 permalink: "/blog/:title"
-name: 0xBAADCAFE
+name: "0xBAADCAFE"
 description: Electronics, programming and geeky stuff.
 google_verification: 
 include:
