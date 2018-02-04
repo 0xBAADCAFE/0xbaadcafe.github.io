@@ -1,5 +1,5 @@
 ---
-title: Blog.Erictreacy.Github.Io
+title: 0xbaadcafe.github.io
 timezone: America/New_York
 collections:
   posts:
@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 permalink: "/blog/:title"
-name: Writing
-description: A blog on Jekyll and GitHub Pages
+name: 0xBAADCAFE
+description: Electronics, programming and geeky stuff.
 google_verification: 
 include:
 - ".htaccess"
