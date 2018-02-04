@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 title: Save yourself the hassle and use this script when installing Android Studio on Linux
 date: 2018-02-04 00:00:00 -00:00 
 layout: post
